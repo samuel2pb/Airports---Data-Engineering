@@ -2,7 +2,7 @@
 
 ### Requisitos
 
-Esse projeto foi feito utilizando Jupyter e requer Python 3 e as bibliotecas a seguir:
+Esse projeto foi feito utilizando Jupyter e requer Python 3 e as libraries dos requirements.
 
 Para instalar essas libraries : 
 
