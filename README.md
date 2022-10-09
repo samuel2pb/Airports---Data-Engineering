@@ -9,8 +9,10 @@ Para instalar essas libraries :
 ```pip install -r requirements.txt ```
 
 É feito o uso do seguinte [Conjunto de dados 1](https://github.com/samuel2pb/Airports---Data-Engineering/tree/main/AIR_CIA)
-[Conjunto de dados 2](https://github.com/samuel2pb/Airports---Data-Engineering/tree/main/VRA)
-[API](https://rapidapi.com/Active-api/api/airport-info/)
+
+Assim como o [Conjunto de dados 2](https://github.com/samuel2pb/Airports---Data-Engineering/tree/main/VRA)
+
+E a [API](https://rapidapi.com/Active-api/api/airport-info/)
 
 
 ### Apresentação
