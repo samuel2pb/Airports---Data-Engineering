@@ -35,6 +35,6 @@ Uma Camada de Consumo é a base de toda estretégia para o Business Inteligence 
 
 Um exemplo dessa arquitetura baseado nos serviços do Google Cloud Platform pode ser visto no seguinte [Diagrama](https://drive.google.com/file/d/1FWkU64tA0vQQLzIiY_z8qB-MGSSyxbSa/view?usp=sharing).
 
-<img src="https://github.com/samuel2pb/Airports---Data-Engineering/blob/main/Airport%20Data%20Architecture.drawio.png" alt="MarineGEO circle logo" style="height: 750px; width:1500px;"/>
+<img src="https://github.com/samuel2pb/Airports---Data-Engineering/blob/main/Airport%20Data%20Architecture.drawio.png" alt="MarineGEO circle logo" style="height: 600px; width:1700px;"/>
 
 
